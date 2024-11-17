@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Techtrender</h1>
+<h1 align="center">Hi 👋, I'm Full stack engineer</h1>
 
 <img src="assets/header.jpg" align="center" alt="Techtrender header image">
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Techtrender, Site Reliability Engineer based in London. I have extensive experience working in agile environments as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, I have extensive experience working in agile environments as a full stack engineer.</h3>
 &emsp;
 
 -------------------
