@@ -10,6 +10,11 @@
 -------------------
 &emsp;
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=techietrend&theme=gitdimmed&column=5" />
+</p>
+
 - 🔭 I’m currently doing and internship at Slack as a Software Engineer. 
 - 📚 In my free time I build things for CodeYourFuture and volunteer as a mentor for students.
 - 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
