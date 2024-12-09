@@ -41,8 +41,10 @@
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
@@ -60,6 +62,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Cursor](https://img.shields.io/badge/-Cursor-000?&logo=Cursor)
 
 ### Services & Frameworks: 
 &emsp;
